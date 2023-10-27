@@ -18,11 +18,13 @@ spec:
           name: mysql
           env:
             - name: MYSQL_ROOT_PASSWORD
-              value: rootpassword  # Sostituisci con una password sicura per l'utente root
+              value: password  # Sostituisci con una password sicura per l'utente root
             - name: MYSQL_USER
               value: diemme
             - name: MYSQL_PASSWORD
               value: password
+            - name: MYSQL_DATABASE
+              value: ForexWebSite
           ports:
             - containerPort: 3306
               name: mysql
@@ -48,5 +50,6 @@ spec:
     - name: mysql-alt
       port: 8889
       targetPort: 8889
+
   selector:
     app: mysql
