@@ -1,0 +1,15 @@
+/Users/alessandrosallese/SpringbootWithKubernetes/ThymeleafProject/src/main/java/it/corso/example/thymeleafproject/repository/CategoryRepository.java
+/Users/alessandrosallese/SpringbootWithKubernetes/ThymeleafProject/src/main/java/it/corso/example/thymeleafproject/business/impl/AssetBOImpl.java
+/Users/alessandrosallese/SpringbootWithKubernetes/ThymeleafProject/src/main/java/it/corso/example/thymeleafproject/repository/AssetRepository.java
+/Users/alessandrosallese/SpringbootWithKubernetes/ThymeleafProject/src/main/java/it/corso/example/thymeleafproject/model/Category.java
+/Users/alessandrosallese/SpringbootWithKubernetes/ThymeleafProject/src/main/java/it/corso/example/thymeleafproject/model/Asset.java
+/Users/alessandrosallese/SpringbootWithKubernetes/ThymeleafProject/src/main/java/it/corso/example/thymeleafproject/business/interfaces/CategoryBO.java
+/Users/alessandrosallese/SpringbootWithKubernetes/ThymeleafProject/src/main/java/it/corso/example/thymeleafproject/Controller/CategoryController.java
+/Users/alessandrosallese/SpringbootWithKubernetes/ThymeleafProject/src/main/java/it/corso/example/thymeleafproject/model/CryptoResponse.java
+/Users/alessandrosallese/SpringbootWithKubernetes/ThymeleafProject/src/main/java/it/corso/example/thymeleafproject/Controller/AssetController.java
+/Users/alessandrosallese/SpringbootWithKubernetes/ThymeleafProject/src/main/java/it/corso/example/thymeleafproject/business/interfaces/AssetBO.java
+/Users/alessandrosallese/SpringbootWithKubernetes/ThymeleafProject/src/main/java/it/corso/example/thymeleafproject/business/impl/CategoryBOImpl.java
+/Users/alessandrosallese/SpringbootWithKubernetes/ThymeleafProject/src/main/java/it/corso/example/thymeleafproject/Controller/GlobalExceptionHandler.java
+/Users/alessandrosallese/SpringbootWithKubernetes/ThymeleafProject/src/main/java/it/corso/example/thymeleafproject/ThymeleafProjectApplication.java
+/Users/alessandrosallese/SpringbootWithKubernetes/ThymeleafProject/src/main/java/it/corso/example/thymeleafproject/Controller/HomeController.java
+/Users/alessandrosallese/SpringbootWithKubernetes/ThymeleafProject/src/main/java/it/corso/example/thymeleafproject/model/BaseEntity.java
