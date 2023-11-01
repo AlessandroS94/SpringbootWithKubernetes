@@ -1,0 +1,15 @@
+it/corso/example/thymeleafproject/business/interfaces/AssetBO.class
+it/corso/example/thymeleafproject/Controller/AssetController.class
+it/corso/example/thymeleafproject/model/BaseEntity.class
+it/corso/example/thymeleafproject/model/CryptoResponse.class
+it/corso/example/thymeleafproject/business/impl/CategoryBOImpl.class
+it/corso/example/thymeleafproject/Controller/CategoryController.class
+it/corso/example/thymeleafproject/model/Category.class
+it/corso/example/thymeleafproject/ThymeleafProjectApplication.class
+it/corso/example/thymeleafproject/Controller/HomeController.class
+it/corso/example/thymeleafproject/business/interfaces/CategoryBO.class
+it/corso/example/thymeleafproject/Controller/GlobalExceptionHandler.class
+it/corso/example/thymeleafproject/repository/AssetRepository.class
+it/corso/example/thymeleafproject/business/impl/AssetBOImpl.class
+it/corso/example/thymeleafproject/repository/CategoryRepository.class
+it/corso/example/thymeleafproject/model/Asset.class
