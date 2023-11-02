@@ -26,7 +26,7 @@ This document describes how to deploy the application on Minikube using the Kube
 
   1. Open a terminal and navigate to the project root.
   2. Run the following command to apply the Kubernetes configuration:
-     ``` kubectl apply -f Kubernetes\ Configuration ``` e il comando
+     ``` kubectl apply -f Kubernetes\ Configuration ``` e the command
      ``` minikube service app-service ```
 ### Result
 ![Algorithm schema](./img/screen1.png)
