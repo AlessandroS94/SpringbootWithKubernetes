@@ -28,3 +28,8 @@ This document describes how to deploy the application on Minikube using the Kube
   2. Run the following command to apply the Kubernetes configuration:
      ``` kubectl apply -f Kubernetes\ Configuration ``` e il comando
      ``` minikube service app-service ```
+### Result
+![Algorithm schema](./img/screen1.png)
+![Algorithm schema](./img/screen2.png)
+![Algorithm schema](./img/screen3.png)
+
