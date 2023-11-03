@@ -16,14 +16,15 @@ Questo documento descrive come effettuare il deploy dell'applicazione su Minikub
 
 - [Minikube](https://minikube.sigs.k8s.io/docs/start/) installato e in esecuzione.
 - [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/) Kubernetes installato.
-
+- [Installer for Docker ](https://www.docker.com/products/kubernetes/)
+- [Installer for Minikube ](https://minikube.sigs.k8s.io/docs/start/)
 ### Procedura di Deployment
 
 1. Apri un terminale e naviga alla root del progetto.
-2. Esegui il seguente comando avviare minikube ``` kubectl apply -f Kubernetes\ Configuration ```
+2. Esegui il seguente comando avviare minikube ``` minikube start ```
 3. Esegui il seguente comando per applicare la configurazione di Kubernetes:
-   3.1. ``` kubectl apply -f Kubernetes\ Configuration ``` e il comando 
-   3.2. ``` minikube service app-service ```
+   1. ``` kubectl apply -f Kubernetes\ Configuration ``` e il comando 
+   2. ``` minikube service app-service ```
 
 ## Deployment on Minikube (English)
 This document describes how to deploy the application on Minikube using the Kubernetes configuration files located in the Kubernetes Configuration directory.
@@ -31,12 +32,16 @@ This document describes how to deploy the application on Minikube using the Kube
 
 - [Minikube](https://minikube.sigs.k8s.io/docs/start/)Minikube installed and running.
 - [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/) Kubernetes installed.
+- [Installer for Docker ](https://www.docker.com/products/kubernetes/)
+- [Installer for Minikube ](https://minikube.sigs.k8s.io/docs/start/)
 ###  Deployment Procedure
 
   1. Open a terminal and navigate to the project root.
-  2. Run the following command to apply the Kubernetes configuration:
-     ``` kubectl apply -f Kubernetes\ Configuration ``` e the command
-     ``` minikube service app-service ```
+  2. Run the following command to start minikube ``` minikube start ```
+  3. Run the following command to apply the Kubernetes configuration:
+   1. ``` kubectl apply -f Kubernetes\ Configuration ``` e il comando 
+   2. ``` minikube service app-service ```
+
 ### Result
 ![Algorithm schema](./img/screen1.png)
 ![Algorithm schema](./img/screen2.png)
