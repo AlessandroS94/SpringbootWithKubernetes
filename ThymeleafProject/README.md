@@ -4,9 +4,9 @@
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?logo=spring)](https://spring.io/projects/spring-boot)
 ## Italian 
 Per realizzare il container sono stati utilizzati i seguenti comandi :
-1. ```  mvn clean package -DskipTests    ```
-2. ```  docker build -t your-userName-Docker/appimage -f appimage.dockerfile . ```
-3. ```  docker push your-userName-Docker/appimage:latest  ```
+1. ```  mvn clean package -DskipTests    ``` permette di realizzare il file jar. Tale file contiene l'applicativo server.
+2. ```  docker build -t your-userName-Docker/appimage -f appimage.dockerfile . ``` Tale comando serve a creare l'immagine Docker.
+3. ```  docker push your-userName-Docker/appimage:latest  ``` Tale comando serve a caricare nella propria repository di immagini l' immagine Docker creata precedentemente.
 
 ## English
 For realise this container follow this command:
