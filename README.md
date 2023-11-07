@@ -57,7 +57,8 @@ This document describes how to deploy the application on Minikube using the Kube
 
 ### Result
 #### Web Application running
-
+The application allows you to save your crypto currency in the database with different info. 
+The service allows you to have the currency updated at the current price with each update of the home page.
 ![Algorithm schema](./img/screen1.png)
 ![Algorithm schema](./img/screen2.png)
 ![Algorithm schema](./img/screen3.png)
