@@ -28,6 +28,8 @@ Questo documento descrive come effettuare il deploy dell'applicazione su Minikub
    2. ``` minikube service app-service ```
 
 ### Risultato 
+#### Architecture 
+![Architecture schema](./img/Kubernetes_SpringBoot.png)
 #### Web Application in funzione 
 L'applicazione permette di salvare nel database la propria cripto valuta con diverse info. 
 Il servizio permett di avere la valuta aggiornata al prezzo attuale ad ogni aggiornamento della pagina home.
