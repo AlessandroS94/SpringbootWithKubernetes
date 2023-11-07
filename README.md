@@ -22,10 +22,10 @@ Questo documento descrive come effettuare il deploy dell'applicazione su Minikub
 ### Procedura di Deployment
 
 1. Apri un terminale e naviga alla root del progetto.
-2. Esegui il seguente comando avviare minikube ``` minikube start ``` ![Algorithm schema](./img/Minikube%20start.gif)
+2. Esegui il seguente comando avviare minikube ``` minikube start ``` ![Algorithm schema](./img/Minikube_start.gif)
 3. Esegui il seguente comando per applicare la configurazione di Kubernetes:
    1. ``` kubectl apply -f Kubernetes\ Configuration ``` e il comando 
-   2. ``` minikube service app-service ``` ![Algorithm schema](./img/Minikube%20expose%20service.gif)
+   2. ``` minikube service app-service ``` ![Algorithm schema](./img/Minikube_expose_service.gif)
 
 ### Risultato 
 #### Architecture 
@@ -52,15 +52,15 @@ This document describes how to deploy the application on Minikube using the Kube
 ###  Deployment Procedure
 
   1. Open a terminal and navigate to the project root.
-  2. Run the following command to start minikube ``` minikube start ``` ![Algorithm schema](./img/Minikube%20start.gif)
+  2. Run the following command to start minikube ``` minikube start ``` ![Algorithm schema](./img/Minikube_start.gif)
   3. Run the following command to apply the Kubernetes configuration:
-   1. ``` kubectl apply -f Kubernetes\ Configuration ``` e il comando ``` minikube service app-service ``` ![Algorithm schema](./img/Minikube%20expose%20service.gif)
+   1. ``` kubectl apply -f Kubernetes\ Configuration ``` e il comando ``` minikube service app-service ``` ![Algorithm schema](./img/Minikube_expose_service.gif)
 
 ### Result
 #### Web Application running
 The application allows you to save your crypto currency in the database with different info. 
 The service allows you to have the currency updated at the current price with each update of the home page.
-![Algorithm schema](./img/Example%20App.gif)
+![Algorithm schema](./img/Example_App.gif)
 #### Explain the deployment and SpringBoot configuration
 ![Algorithm schema](./img/sreen4.jpg)
 
