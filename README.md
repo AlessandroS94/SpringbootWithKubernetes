@@ -34,7 +34,7 @@ Il servizio permett di avere la valuta aggiornata al prezzo attuale ad ogni aggi
 ![Algorithm schema](./img/screen1.png)
 ![Algorithm schema](./img/screen2.png)
 ![Algorithm schema](./img/screen3.png)
-#### Spiegazione la configurazione di distribuzione 
+#### Spiegazione della configurazione di distribuzione 
 ![Algorithm schema](./img/sreen4.jpg)
 
 
@@ -62,6 +62,6 @@ The service allows you to have the currency updated at the current price with ea
 ![Algorithm schema](./img/screen1.png)
 ![Algorithm schema](./img/screen2.png)
 ![Algorithm schema](./img/screen3.png)
-#### Explain the deployment and springboot config
+#### Explain the deployment and SpringBoot configuration
 ![Algorithm schema](./img/sreen4.jpg)
 
