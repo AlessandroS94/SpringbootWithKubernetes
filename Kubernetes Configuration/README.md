@@ -14,6 +14,11 @@ Questo repository contiene i file di deployment per Kubernetes necessari per imp
 - [Kubernetes](https://kubernetes.io/) (v1.19+)
 - [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/) (v1.19+)
 - [Docker](https://www.docker.com/) (v20.10+)
+Seguire i passaggi essenziali:
+1. Installare Docker
+2. Installare da Docker kubernetes in modo da poter utilizzare kubectl
+3. Installare il cluster di minikube
+
 
 ### Istruzioni per il Deployment
 
