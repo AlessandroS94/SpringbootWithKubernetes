@@ -14,6 +14,7 @@ Questo repository contiene i file di deployment per Kubernetes necessari per imp
 - [Kubernetes](https://kubernetes.io/) (v1.19+)
 - [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/) (v1.19+)
 - [Docker](https://www.docker.com/) (v20.10+)
+
 Seguire i passaggi essenziali:
 1. Installare Docker
 2. Installare da Docker kubernetes in modo da poter utilizzare kubectl
@@ -35,6 +36,14 @@ This repository contains the Kubernetes deployment files needed to deploy a MySQ
 - [Kubernetes](https://kubernetes.io/) (v1.19+)
 - [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/) (v1.19+)
 - [Docker](https://www.docker.com/) (v20.10+)
+
+Follow the essential steps:
+
+1. Installing Docker
+
+2. Install from Docker kubernetes so you can use kubectl
+
+3. Install the minikube cluster
 
 ### Deployment Instructions
 
