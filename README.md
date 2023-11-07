@@ -1,5 +1,5 @@
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-Deployment-blue?logo=kubernetes)](https://kubernetes.io/)
-[![MySQL](https://img.shields.io/badge/MySQL-Database-orange?logo=mysql)](https://www.mysql.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-Container-orange?logo=mysql)](https://www.mysql.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-Container-green?logo=spring)](https://spring.io/projects/spring-boot)
 [![Minikube](https://img.shields.io/badge/Minikube-Kubernetes%20Local%20Cluster-blue?logo=minikube)](https://minikube.sigs.k8s.io/docs/start/)
 [![Docker](https://img.shields.io/badge/Docker-Container%20Platform-blue?logo=docker)](https://www.docker.com/)
