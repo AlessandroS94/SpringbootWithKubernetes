@@ -26,7 +26,8 @@ Questo documento descrive come effettuare il deploy dell'applicazione su Minikub
 2. Esegui il seguente comando avviare minikube ``` minikube start ``` ![Algorithm schema](./img/Minikube_start.gif)
 3. Esegui il seguente comando per applicare la configurazione di Kubernetes:
    1. ``` kubectl apply -f Kubernetes\ Configuration ``` e il comando 
-   2. ``` minikube service app-service ``` ![Algorithm schema](./img/Minikube_expose_service.gif)
+   2. ``` minikube service app-service ```
+![Algorithm schema](./img/Minikube_expose_service.gif)
 
 ### Risultato 
 #### Architecture 
