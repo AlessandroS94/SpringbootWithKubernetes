@@ -43,9 +43,10 @@ This document describes how to deploy the application on Minikube using the Kube
    2. ``` minikube service app-service ```
 
 ### Result
+#### Web Application running
 ![Algorithm schema](./img/screen1.png)
 ![Algorithm schema](./img/screen2.png)
 ![Algorithm schema](./img/screen3.png)
-Explain the deployment and springboot config
+#### Explain the deployment and springboot config
 ![Algorithm schema](./img/sreen4.jpg)
 
