@@ -27,7 +27,7 @@ Questo documento descrive come effettuare il deploy dell'applicazione su Minikub
 3. Esegui il seguente comando per applicare la configurazione di Kubernetes:
    1. ``` kubectl apply -f Kubernetes\ Configuration ``` e il comando 
    2. ``` minikube service app-service ```
-![Algorithm schema](./img/Minikube_expose_service.gif)
+   ![Algorithm schema](./img/Minikube_expose_service.gif)
 
 ### Risultato 
 #### Architecture 
@@ -35,9 +35,7 @@ Questo documento descrive come effettuare il deploy dell'applicazione su Minikub
 #### Web Application in funzione 
 L'applicazione permette di salvare nel database la propria cripto valuta con diverse info. 
 Il servizio permett di avere la valuta aggiornata al prezzo attuale ad ogni aggiornamento della pagina home.
-![Algorithm schema](./img/screen1.png)
-![Algorithm schema](./img/screen2.png)
-![Algorithm schema](./img/screen3.png)
+![Algorithm schema](./img/Example_App.gif)
 #### Spiegazione della configurazione di distribuzione 
 ![Algorithm schema](./img/sreen4.jpg)
 
