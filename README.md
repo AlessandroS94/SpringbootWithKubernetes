@@ -8,7 +8,14 @@
 [![Java](https://img.shields.io/badge/Java-Programming%20Language-red?logo=java)](https://www.java.com/)
 [![Thymeleaf](https://img.shields.io/badge/Thymeleaf-Template%20Engine-green)](https://www.thymeleaf.org/)
 
+> It is an example of SpringBoot 3 application with thymeleaf engine deployed on Kubernetes. For this example we use minikube for realize a cluster.
+> [!NOTE]
+> Every folder contain an explain of the project that it is inside.
+
 # SpringbootWithKubernetes
+<details>
+
+<summary> <h4> Italian Info </h4> </summary>
 
 ## Deployment su Minikube (Italiano)
 
@@ -38,8 +45,10 @@ Il servizio permett di avere la valuta aggiornata al prezzo attuale ad ogni aggi
 ![Algorithm schema](./img/Example_App.gif)
 #### Spiegazione della configurazione di distribuzione 
 ![Algorithm schema](./img/sreen4.jpg)
+</details>
 
-
+<details>
+<summary> <h4> English Info </h4></summary>
 
 ## Deployment on Minikube (English)
 This document describes how to deploy the application on Minikube using the Kubernetes configuration files located in the Kubernetes Configuration directory.
@@ -63,4 +72,6 @@ The service allows you to have the currency updated at the current price with ea
 ![Algorithm schema](./img/Example_App.gif)
 #### Explain the deployment and SpringBoot configuration
 ![Algorithm schema](./img/sreen4.jpg)
+</details>
 
+![Algorithm schema](./img/Example_App.gif)
