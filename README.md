@@ -10,6 +10,7 @@
 
 > It is an example of SpringBoot 3 application with thymeleaf engine deployed on Kubernetes. The application use an a Mysql database and we show how set the Kubernetes enviorement. For this example we use minikube for realize a cluster. This is an exercise and it is one way among many to develop this type of solution.
 
+
 > [!NOTE]
 > Every folder contain an explain of the project that it is inside.
 
