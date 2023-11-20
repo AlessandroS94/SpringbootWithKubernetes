@@ -2,6 +2,10 @@
 [![Maven](https://img.shields.io/badge/Apache_Maven-Build%20Automation-red?logo=apache-maven)](https://maven.apache.org/)
 [![Java](https://img.shields.io/badge/Java-Programming%20Language-red?logo=java)](https://www.java.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?logo=spring)](https://spring.io/projects/spring-boot)
+
+## Original Project 
+Follow this link https://github.com/AlessandroS94/corso_21122022/tree/main/Day%2010/code/ThymeleafProject
+
 ## Italian 
 Per realizzare il container sono stati utilizzati i seguenti comandi :
 1. ```  mvn clean package -DskipTests    ``` permette di realizzare il file jar. Tale file contiene l'applicativo server.
@@ -10,6 +14,6 @@ Per realizzare il container sono stati utilizzati i seguenti comandi :
 
 ## English
 For realise this container follow this command:
-1. ```  mvn clean package -DskipTests    ```
-2. ```  docker build -t your-userName-Docker/appimage -f appimage.dockerfile . ```
-3. ```  docker push your-userName-Docker/appimage:latest  ```
+1. ```  mvn clean package -DskipTests    ``` This command builds the jar file, which contains the server application.
+2. ```  docker build -t your-userName-Docker/appimage -f appimage.dockerfile . ``` This command creates the docker image.
+3. ```  docker push your-userName-Docker/appimage:latest  ``` This command pushes the container image to Docker Hub.
