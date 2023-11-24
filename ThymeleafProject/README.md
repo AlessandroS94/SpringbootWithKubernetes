@@ -12,8 +12,14 @@ Per realizzare il container sono stati utilizzati i seguenti comandi :
 2. ```  docker build -t your-userName-Docker/appimage -f appimage.dockerfile . ``` Tale comando serve a creare l'immagine Docker.
 3. ```  docker push your-userName-Docker/appimage:latest  ``` Tale comando serve a caricare nella propria repository di immagini l' immagine Docker creata precedentemente.
 
+> [!NOTE]  
+>  In questo progetto è stato utilizzato nell' application.properties il dns <b>mysql</b> per poter sfruttare il servizio mysql di kubertes. 
+
 ## English
 For realise this container follow this command:
 1. ```  mvn clean package -DskipTests    ``` This command builds the jar file, which contains the server application.
 2. ```  docker build -t your-userName-Docker/appimage -f appimage.dockerfile . ``` This command creates the docker image.
 3. ```  docker push your-userName-Docker/appimage:latest  ``` This command pushes the container image to Docker Hub.
+
+> [!NOTE]  
+> In this project, the DNS <b>mysql</b> was used in the application.properties to leverage the mysql service of Kubernetes.
