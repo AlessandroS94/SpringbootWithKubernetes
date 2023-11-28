@@ -8,7 +8,7 @@
 [![Java](https://img.shields.io/badge/Java-Programming%20Language-red?logo=java)](https://www.java.com/)
 [![Thymeleaf](https://img.shields.io/badge/Thymeleaf-Template%20Engine-green)](https://www.thymeleaf.org/)
 
-> It is an example of SpringBoot 3 application with thymeleaf engine deployed on Kubernetes. The application use an a Mysql database and we show how set the Kubernetes enviorement. 
+> It is an example of SpringBoot 3.1 application with thymeleaf engine deployed on Kubernetes. The application use an a Mysql database and we show how set the Kubernetes enviorement. 
 For this example we use minikube for realize a cluster. This is an exercise and it is one way among many to develop this type of solution.
 Every folder contain an explain of the project that it is inside.
 
