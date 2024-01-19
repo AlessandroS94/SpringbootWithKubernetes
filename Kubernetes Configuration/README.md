@@ -7,7 +7,7 @@
 
 ## Italiano
 
-Questo repository contiene i file di deployment per Kubernetes necessari per implementare un database MySQL e un container Spring Boot. Questo setup permette di avere un ambiente di produzione/staging pronto per essere deployato in modo semplice e ripetibile.
+Questa repository contiene dei file di deployment per Kubernetes necessari per implementare un database MySQL e un container Spring Boot dell'applicazione ThymeleafProject. Questo setup permette di avere un' ambiente di produzione/staging pronto per essere deployato in modo semplice e ripetibile.
 
 ### Requisiti
 
@@ -24,7 +24,7 @@ Seguire i passaggi essenziali:
 ### Istruzioni per il Deployment
 
 1. Assicurarsi che il cluster Kubernetes sia funzionante e accessibile tramite `kubectl`.
-2. Deployare il tutto seguire le istruzioni del README iniziale
+2. Deployare il tutto seguendo le istruzioni del README iniziale
 
 ## English
 
