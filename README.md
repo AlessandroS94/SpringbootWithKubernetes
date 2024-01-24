@@ -72,6 +72,9 @@ The service allows you to have the currency updated at the current price with ea
 ![Algorithm schema](./img/Example_App.gif)
 #### Explain the deployment and SpringBoot configuration
 ![Algorithm schema](./img/sreen4.jpg)
+
+#### Architecture 
+![Architecture schema](./img/Kubernetes_SpringBoot.png)
 </details>
 
 ![Algorithm schema](./img/Example_App.gif)
