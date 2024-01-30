@@ -27,6 +27,7 @@ Questo documento descrive come effettuare il deploy dell'applicazione su Minikub
 - [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/) Kubernetes installato.
 - [Installer for Docker ](https://www.docker.com/products/kubernetes/)
 - [Installer for Minikube ](https://minikube.sigs.k8s.io/docs/start/)
+- 
 ### Procedura di Deployment
 
 1. Apri un terminale e naviga alla root del progetto.
